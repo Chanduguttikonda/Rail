@@ -1,13 +1,3 @@
-body{
-    background-image: url('https://tse1.mm.bing.net/th?id=OIP.NqUo2urLReD3JTeYHwSegQHaEK&pid=Api&P=0&h=180');
-    background-size: cover;       /* Ensures the image covers the entire viewport */
-    background-position: center;  /* Centers the image in the viewport */
-    background-attachment: fixed; /* Keeps the image fixed in place while scrolling (optional) */
-    background-repeat: no-repeat; /* Ensures the image doesn't repeat */
-    height: 100vh;                /* Ensures the body takes the full height of the viewport */
-    margin: 0;                    /* Removes default margin */
-  }
-  
 .loop{
     color:red;
     text-align: center;
