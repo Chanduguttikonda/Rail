@@ -66,7 +66,5 @@ select:focus {
     border-color: #007BFF; /* Change border color on focus */
     outline: none; /* Remove default outline */
 }
-body{
-    background-image: url('D:\HTML\images\irctc.jpeg');
-}
+
 
