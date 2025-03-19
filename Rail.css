@@ -1,0 +1,72 @@
+body{
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.NqUo2urLReD3JTeYHwSegQHaEK&pid=Api&P=0&h=180');
+    background-size: cover;       /* Ensures the image covers the entire viewport */
+    background-position: center;  /* Centers the image in the viewport */
+    background-attachment: fixed; /* Keeps the image fixed in place while scrolling (optional) */
+    background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+    height: 100vh;                /* Ensures the body takes the full height of the viewport */
+    margin: 0;                    /* Removes default margin */
+  }
+  
+.loop{
+    color:red;
+    text-align: center;
+}
+.container h2{
+    color:darkblue;
+    text-align: center;
+}
+.container{
+     border-radius: 10px;
+     padding:20px;
+     margin:20px auto;
+     background: color #f9f9f9;
+     border:1px solid#ccc;
+     max-width:600px;
+}
+body,h2,h3,p{
+    
+    font-family:Arial,sans-serif;
+}
+.loop{
+    border: 5px;
+    margin:20px auto;
+    border:1px solid#ccc;
+    max-width:600px;
+    padding:20px;
+    
+}
+button{
+    background-color: orange;
+    color:white;
+    border:none;
+    border-radius: 5px;
+    cursor:pointer ;
+    padding:5px;
+    width:100px;
+}
+button:hover{
+    background-color: #0056b3;
+}
+input[type="text"],
+input[type="date"],
+select {
+    width:200px;
+    height:30px;
+    margin:10px 0;
+    border-radius: 5px;
+    border:1px solid#ccc;
+}
+label{
+    color:#0056b3;
+}
+input[type="text"]:focus,
+input[type="date"]:focus,
+select:focus {
+    border-color: #007BFF; /* Change border color on focus */
+    outline: none; /* Remove default outline */
+}
+body{
+    background-image: url('D:\HTML\images\irctc.jpeg');
+}
+
